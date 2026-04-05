@@ -1,8 +1,10 @@
 {
   "name": "ylen-solutions",
   "version": "1.0.0",
-  "description": "Static site",
   "scripts": {
     "start": "npx serve ."
+  },
+  "dependencies": {
+    "serve": "^14.2.4"
   }
 }
